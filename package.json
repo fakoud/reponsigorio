@@ -1,0 +1,19 @@
+{
+  "name": "reponsigorio",
+  "version": "1.0.0",
+  "description": "Hola Mundo!\r Hice esta garompa para mi clase de GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakoud/reponsigorio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakoud/reponsigorio/issues"
+  },
+  "homepage": "https://github.com/fakoud/reponsigorio#readme"
+}
